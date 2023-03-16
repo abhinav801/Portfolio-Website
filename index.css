@@ -393,7 +393,7 @@ right:10%;
 }
 
 .project-skills-container{
-width:50%;
+width:60%;
 display:flex;
 gap:15px;
 flex-wrap:wrap;
@@ -475,16 +475,20 @@ transform:scale(1.1);
 }
 
 #project1{
-background-image: url(./images/projects/Project1.png);
+  margin-left:120px;
+  background-image: url(./images/chat-app1.png);
 }
 #project2{
+background-image: url(./images/projects/Project1.png);
+}
+#project3{
 margin-left:120px;
 background-image: url(./images/projects/Project2.png);
 }
-#project3{
+#project4{
 background-image: url(./images/projects/Project3.png);
 }
-#project4{
+#project5{
 margin-left:120px;
 background-image: url(./images/projects/Project4.png);
 }
